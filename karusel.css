@@ -1,0 +1,12 @@
+.karasul-slider{
+	width: 80%;
+	height: 80%;
+	margin: 0 auto;
+	text-align: center;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+}
+.karasul-slider .slide-img{
+	width: 60%;
+}
