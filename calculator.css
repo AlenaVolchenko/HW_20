@@ -1,0 +1,15 @@
+.blokButtonNumber {
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: blue;
+	padding: 2px;
+}
+
+.blokButton button  {
+	height: 60px;
+	width: 60px;
+	margin: 20px;
+
+
+}
